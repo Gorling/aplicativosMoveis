@@ -1,0 +1,6 @@
+{
+  "name": "CineManager UFN",
+  "description": "Sistema de cadastro e gerenciamento de filmes e membros do cineclube desenvolvido para a disciplina de Aplicativos Móveis (UFN).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
